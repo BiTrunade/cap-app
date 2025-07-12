@@ -1,0 +1,8 @@
+{
+  "name": "Watan Management",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "f7adb232"
+}
