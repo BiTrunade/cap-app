@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Watan Management</string>
+    <string name="title_activity_main">Watan Management</string>
+    <string name="package_name">com.alazal.watanmanagement</string>
+    <string name="custom_url_scheme">com.alazal.watanmanagement</string>
+</resources>
