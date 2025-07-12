@@ -1,5 +1,12 @@
 {
-  "name": "Watan Management",
+  "appId": "com.alazal.watanmanagement",
+  "appName": "Watan Management",
   "type": "custom",
-  "webDir": "www"
+  "webDir": "www",
+  "android": {
+    "gradleCommand": ":app:assembleRelease"
+  },
+  "ios": {
+    "buildConfiguration": "Release"
+  }
 }
